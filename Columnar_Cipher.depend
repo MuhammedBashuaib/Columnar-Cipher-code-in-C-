@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640172711 source:c:\users\lenovo\desktop\columnar_cipher\main.cpp
+	<iostream>
+	<String>
+	<map>
+
